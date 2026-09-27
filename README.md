@@ -26,8 +26,7 @@ url-shortener-mern/
 ## Prerequisites
 
 - Node.js v18+ and npm
-- MongoDB running locally (`mongodb://127.0.0.1:27017`) **or** a free
-  [MongoDB Atlas](https://www.mongodb.com/atlas) connection string
+- MongoDB running locally (`mongodb://127.0.0.1:27017`)
 
 ## 1. Backend setup
 
